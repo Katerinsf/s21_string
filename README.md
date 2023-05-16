@@ -21,7 +21,7 @@ The russian version of the task can be found in the repository.
 
 ## Preamble
 
-![s21_string+](misc/eng/images/s21_stringplus.png)
+<!-- ![s21_string+](misc/eng/images/s21_stringplus.png) -->
 
 1942, late evening, Bletchley Park, Alan Turing's desk. For almost a year, a group of smartest mathematicians, linguists, and crossword puzzle enthusiasts has been trying to solve the most difficult problem of deciphering the German Enigma encryption machine, the codes for which change every day, and the number of possible combinations is about two to the power of 64. The group often had to come up with different algorithms, and they even developed a special set of keywords and their syntax for the convenience of communication and logging and it’s exactly like the well-known C language in our universe. What a remarkable coincidence! But there was one difficulty – the Bletchley Park workers had to keep the entire sequence of actions described in this language in their heads. 
 
